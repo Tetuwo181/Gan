@@ -1,0 +1,5 @@
+__pycache__/
+dataset/
+dataset_r/
+dataset_without_back/
+.idea/
